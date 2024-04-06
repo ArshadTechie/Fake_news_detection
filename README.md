@@ -36,7 +36,7 @@ The project implements several machine learning models for fake news detection, 
 - Multinomial Naive Bayes
 - K-Nearest Neighbors
 - Multinomial Naive Bayes using TF-IDF
-- 
+  
 Each model is trained and evaluated using appropriate metrics such as F1 score to assess its performance.
 
 ## Usage
